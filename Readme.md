@@ -11,3 +11,5 @@ You may want to consider [citing](https://doi.org/10.12688/f1000research.157778.
 The git repository is not meant to provide a space to work on the material.
 The material is provided in the state used at the workshop and should be considered “raw material”: not complete and not always correct.
 No effort will be made to improve these data in any way: they are intended to be a snapshot of the information available at the event.
+
+The best entrypoint is [deRSE23-session-pads-teaching-rseng.md](deRSE23-session-pads-teaching-rseng.md).
