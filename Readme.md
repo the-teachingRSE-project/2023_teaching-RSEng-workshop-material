@@ -1,7 +1,7 @@
 # Material archive for the deRSE23 workshop “Teaching and Learning Research Software Engineering”
 
 The material was copied to git mainly from the then-used HedgeDoc pads for ease of access.
-When you use this material, please note the [CC-BY license](LICENSE).
+When you use this material, please note the [CC-BY license](LICENSE), but also note that this material includes presentations that may have to be cited separately.
 Note: please do not use the git repository for citations.
 Instead, use the version publised on Zenodo.
 
