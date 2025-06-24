@@ -1,0 +1,167 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Material from the deRSE23 workshop “Teaching and Learning
+  Research Software Engineering”
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Florian
+    family-names: Goth
+    orcid: https://orcid.org/0000-0003-2707-4790
+    email: florian.goth@uni-wuerzburg.de
+    affiliation: Würzburg-Dresden Cluster of Excellence ct.qmat, University of Würzburg,
+      97074, Würzburg, Germany
+  - given-names: Renato
+    family-names: Alves
+    orcid: https://orcid.org/0000-0002-7212-0234
+    email: renato.alves@embl.de
+    affiliation: European Molecular Biology Laboratory, Heidelberg, Germany
+  - given-names: Matthias
+    family-names: Braun
+    orcid: https://orcid.org/0000-0001-8591-3690
+    email: matthias.braun@intcdc.uni-stuttgart.de
+    affiliation: Cluster of Excellence IntCDC, University of Stuttgart, Germany
+  - given-names: Leyla Jael
+    family-names: Castro
+    orcid: https://orcid.org/0000-0003-3986-0510
+    email: ljgarcia@zbmed.de
+    affiliation: ZB MED Information Centre for Life Sciences, Cologne, Germany
+  - given-names: Gerasimos
+    family-names: Chourdakis
+    orcid: https://orcid.org/0000-0002-3977-1385
+    email: Gerasimos.Chourdakis@ipvs.uni-stuttgart.de
+    affiliation: School of Computation, Information and Technology, Technical University
+      of Munich, Garching, Germany; Institute for Parallel and Distributed Systems,
+      University of Stuttgart, Stuttgart, Germany
+  - given-names: Simon
+    family-names: Christ
+    orcid: https://orcid.org/0000-0002-5866-1472
+    email: christ@cell.uni-hannover.de
+    affiliation: Leibniz University Hannover, Department of Cell Biology and Biophysics,
+      Computational Biology, Germany
+  - given-names: Jeremy
+    family-names: Cohen
+    orcid: https://orcid.org/0000-0003-4312-2537
+    email: jeremy.cohen@imperial.ac.uk
+    affiliation: Imperial College London, London, UK
+  - given-names: Stephan
+    family-names: Druskat
+    orcid: https://orcid.org/0000-0003-4925-7248
+    email: stephan.druskat@dlr.de
+    affiliation: German Aerospace Center (DLR), Institute for Software Technology, Berlin,
+      Germany
+  - given-names: Fredo
+    family-names: Erxleben
+    orcid: https://orcid.org/0000-0001-7233-3005
+    email: f.erxleben@hzdr.de
+    affiliation: Helmholtz-Zentrum Dresden-Rossendorf, Germany
+  - given-names: Jean-Noël
+    family-names: Grad
+    orcid: https://orcid.org/0000-0002-5821-4912
+    email: jgrad@icp.uni-stuttgart.de
+    affiliation: Institute for Computational Physics, University of Stuttgart, Germany
+  - given-names: Magnus
+    family-names: Hagdorn
+    orcid: https://orcid.org/0000-0002-5076-4864
+    email: magnus.hagdorn@charite.de
+    affiliation: Geschäftsbereich IT, Charité Universitätsmedizin Berlin, Germany
+  - given-names: Toby
+    family-names: Hodges
+    orcid: https://orcid.org/0000-0003-1766-456X
+    email: tobyhodges@carpentries.org
+    affiliation: The Carpentries, USA
+  - given-names: Guido
+    family-names: Juckeland
+    orcid: https://orcid.org/0000-0002-9935-4428
+    email: g.juckeland@hzdr.de
+    affiliation: Helmholtz-Zentrum Dresden-Rossendorf, Germany
+  - given-names: Dominic
+    family-names: Kempf
+    orcid: https://orcid.org/0000-0002-6140-2332
+    email: dominic.kempf@iwr.uni-heidelberg.de
+    affiliation: Heidelberg University, Scientific Software Center, Germany
+  - given-names: Anna-Lena
+    family-names: Lamprecht
+    orcid: https://orcid.org/0000-0003-1953-5606
+    email: anna-lena.lamprecht@uni-potsdam.de
+    affiliation: Institute of Computer Science, University of Potsdam, Germany
+  - given-names: Jan
+    family-names: Linxweiler
+    orcid: https://orcid.org/0000-0002-2755-5087
+    email: j.linxweiler@tu-braunschweig.de
+    affiliation: Technische Universität Braunschweig, Germany
+  - given-names: Frank
+    family-names: Löffler
+    orcid: https://orcid.org/0000-0001-6643-6323
+    email: frank.loeffler@uni-jena.de
+    affiliation: Michael Stifel Center Jena & Friedrich Schiller University Jena, Germany
+  - given-names: Michele
+    family-names: Martone
+    orcid: https://orcid.org/0000-0003-3239-8554
+    email: michele.martone@lrz.de
+    affiliation: Leibniz Supercomputing Centre, Garching, Germany
+  - given-names: Moritz
+    family-names: Schwarzmeier
+    orcid: https://orcid.org/0000-0001-8992-6245
+    email: moritz.schwarzmeier@tu-darmstadt.de
+    affiliation: Mathematical Modeling and Analysis, TU Darmstadt, Germany
+  - given-names: Heidi
+    family-names: Seibold
+    orcid: https://orcid.org/0000-0002-8960-9642
+    email: heidi@seibold.co
+    affiliation: IGDORE Munich, Germany
+  - given-names: Jan Philipp
+    family-names: Thiele
+    orcid: https://orcid.org/0000-0002-8901-6660
+    email: thiele@wias-berlin.de
+    affiliation: Weierstrass Institute, Berlin, Germany; Leibniz University Hannover,
+      Institute of Applied Mathematics, Scientific Computing, Hannover, Germany
+  - given-names: Harald
+    family-names: von Waldow
+    orcid: https://orcid.org/0000-0003-4800-2833
+    email: harald.vonwaldow@thuenen.de
+    affiliation: Johann Heinrich von Thünen Institute, Centre for Information Management,
+      Germany
+  - given-names: Samantha
+    family-names: Wittke
+    orcid: https://orcid.org/0000-0002-9625-7235
+    email: samantha.wittke@csc.fi
+    affiliation: CSC – IT Center for Science, Espoo, Finland
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/the-teachingRSE-project/2023_teaching-RSEng-workshop-material
+    description: github repository containing the material
+url: 'https://github.com/the-teachingRSE-project/competencies'
+repository-artifact: >-
+  https://github.com/the-teachingRSE-project/2023_teaching-RSEng-workshop-material
+abstract: >-
+  The material was copied to git mainly from the then-used
+  HedgeDoc pads for ease of access. When you use this
+  material, please note the CC-BY license, but also note
+  that this material includes presentations that may have to
+  be cited separately. 
+
+
+  In addition, these data were refined, corrected, and
+  generally improved to produce the publication
+  “Foundational Competencies and Responsibilities of a
+  Research Software Engineer”
+  (https://f1000research.com/articles/13-1429/v1). You may
+  want to consider citing it
+  (https://doi.org/10.12688/f1000research.157778.1) instead.
+
+
+  The best entrypoint is the file
+  “deRSE23-session-pads-teaching-rseng.md”.
+keywords:
+  - research software engineering
+  - rse
+  - competencies
+license: CC-BY-4.0
+commit: 917232f8dad2f6773455c42c10d92cfee6b186bb
