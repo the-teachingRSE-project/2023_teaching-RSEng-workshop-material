@@ -164,4 +164,5 @@ keywords:
   - rse
   - competencies
 license: CC-BY-4.0
-commit: 917232f8dad2f6773455c42c10d92cfee6b186bb
+commit: 23421bc03b86a2533967d7a1673eebfe831053e4
+version: 1.0.0
